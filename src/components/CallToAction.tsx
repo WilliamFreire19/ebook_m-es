@@ -12,7 +12,7 @@ const CallToAction: React.FC = () => {
               {/* Espaço para a capa do ebook */}
               <div className="lg:w-2/5 p-8 flex items-center justify-center bg-gradient-to-br from-salmon/5 to-mint/5">
                   <img
-                    src="/public/capa_do_ebook.png"
+                    src="/capa_do_ebook.png"
                     alt="Descrição da Capa do Ebook"
                     className="w-64 h-80 object-cover rounded-lg shadow-lg"
                   />

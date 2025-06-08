@@ -63,7 +63,7 @@ const About: React.FC = () => {
           <div className="lg:w-1/2 relative">
             <div className="relative rounded-2xl overflow-hidden shadow-lg">
               <img 
-                src="/public/Imagem2.jpg" 
+                src="/Imagem2.jpg" 
                 alt="Mãe segurando seu bebê com carinho" 
                 className="w-full h-auto object-cover rounded-2xl"
               />

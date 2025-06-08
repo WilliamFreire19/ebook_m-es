@@ -16,7 +16,7 @@ const Author: React.FC = () => {
               
               <div className="relative rounded-2xl overflow-hidden shadow-xl">
                 <img 
-                  src="/public/autora.jpg" 
+                  src="/autora.jpg" 
                   alt="Dra. Helena Costa" 
                   className="w-full h-auto object-cover"
                 />
